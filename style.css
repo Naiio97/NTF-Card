@@ -1,0 +1,110 @@
+html {
+    margin: 0;
+    padding: 0;
+    background-color: rgba(10, 20, 35);
+    font-family: 'Outfit', sans-serif;
+}
+
+.container {
+    height: 700px;
+    width: 400px;
+    margin: 50px auto;
+    border-radius: 20px;
+    background: rgba(14, 29, 50)
+}
+
+img {
+    width: 350px;
+    height: 360px;
+    margin: 25px 25px 0 25px;
+    border-radius: 10px;
+}
+
+h1 {
+    color: rgba(0, 255, 255);
+    font-weight: 23px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.main p {
+    font-size: 18px;
+    margin: 0 25px 0 25px;
+    color: rgba(115, 157, 215);
+}
+.icons {
+ height: 90px;
+}
+
+.eth {
+    margin: 40px 0 30px 25px;
+    display: inline-block;
+    position: relative;
+    bottom: 30px;
+}
+.eth img {
+    width: 12px;
+    height: 20px;
+    margin: 0;
+    padding-right: 10px;
+    position: relative;
+    top: 3px;
+}
+
+.eth p {
+    padding-left: 5px;
+    color: rgba(0, 255, 255);
+    font-size: 18px;
+    font-weight: bold;
+}
+.time {
+    display: inline-block;
+    position: relative;
+    left: 110px;
+    bottom: 30px;
+}
+
+.time img {
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    padding-right: 10px;
+    position: relative;
+    top: 3px;
+}
+
+.time p {
+    padding-left: 5px;
+    color: rgba(0, 255, 255);
+    font-size: 18px;
+    text-align: right;
+    color: rgba(115, 157, 215);
+    
+}
+
+.profile {
+    margin: 0 25px 0 25px;
+    border-top: 1px solid rgba(115, 157, 215);
+} 
+
+.profile img {
+    height: 35px;
+    width: 35px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 20px 0 0 0px;
+}
+
+.profile p {
+    padding-left: 5px;
+    font-size: 18px;
+    color: rgba(115, 157, 215);
+    position: absolute;
+    display: inline-block;  
+    margin: 28px 0 0 10px
+}
+
+.profile a {
+    color: rgba(0, 255, 255);
+    text-decoration: none;
+}
